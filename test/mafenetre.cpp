@@ -52,6 +52,7 @@ MaFenetre::MaFenetre() : QWidget()
     layout->addWidget(m_bouton,2,1);
     layout->addWidget(m_bouton1,2,0);
     this->setLayout(layout);
+    //Alors
 
 
 
