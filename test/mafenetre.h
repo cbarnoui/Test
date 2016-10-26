@@ -25,7 +25,7 @@ private:
     QLCDNumber *m_lcd;
     QProgressBar *m_progress;
     QSlider *m_slider;
-    //bon, bon
+    //bon, bon, et allez
 };
 
 
