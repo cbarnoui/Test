@@ -52,7 +52,8 @@ MaFenetre::MaFenetre() : QWidget()
     layout->addWidget(m_bouton,2,1);
     layout->addWidget(m_bouton1,2,0);
     this->setLayout(layout);
-    //test parceque je le vaut bien et oui j'ai fait une connerie finalement, ça va
+    //test parceque je le vaut bien et oui j'ai fait une connerie finalement, ça va.
+    // J'ai donc réussi à bien faire un versionnement internet. blabla
 
 
 
